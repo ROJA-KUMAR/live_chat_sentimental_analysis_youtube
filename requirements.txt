@@ -1,0 +1,6 @@
+Flask
+textblob
+google-api-python-client
+pandas
+numpy
+scikit-learn
